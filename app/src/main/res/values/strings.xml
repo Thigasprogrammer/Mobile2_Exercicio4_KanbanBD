@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Navegabilidade App</string>
+
+    <string name="status_task_todo">Pendente</string>
+    <string name="status_task_doing">Em Andamento</string>
+    <string name="status_task_done">Concluído</string>
+    <string name="hint_edit_email">Digite seu e-mail</string>
+    <string name="hint_edit_password">Digite sua senha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_title_warning">Atenção</string>
+    <string name="text_button_warning">Entendi</string>
+
+    <string name="password_empty">Preencha a senha!</string>
+    <string name="email_empty">Preencha  seu email!</string>
+    <string name="password_text">Senha!</string>
+    <string name="email_text">E-mail</string>
+
+    <string name="email_empty_register_fragment">Preencha um e-mail válido.</string>
+    <string name="password_empty_register_fragment">Preencha uma senha.</string>
+    <string name="text_button_register_fragment">Enviar</string>
+    <string name="text_title_toolbar_register_fragment">Criar conta</string>
+
+    <string name="description_empty_form_task_fragment">Preencha uma descrição.</string>
+    <string name="text_title_login_fragment">Acessar</string>
+    <string name="text_title_recover_fragment">Criar conta</string>
+    <string name="text_button_recover_login_fragment">Recuperar conta</string>
+
+    <string name="text_info_recover_account_fragment">Informe seu email de cadastro para receber \n um link para alteração de senha.</string>
+    <string name="text_title_toolbar_recover_account_fragment">Recuperar conta</string>
+    <string name="text_button_recover_account_fragment">Enviar</string>
+    <string name="save">Salvar</string>
+    <string name="status">Status</string>
+    <string name="inform_your_new_task">Informe sua nova tarefa</string>
+    <string name="description_text">Descrição</string>
+    <string name="new_task">Nova tarefa</string>
+    <string name="text_button_message">Mensagem</string>
+
+    <string name="error_generic">Ocorreu um erro! Por favor tente novamente mais tarde.</string>
+    <string name="text_title_dialog_confirm_logout">Deseja sair da sua conta?</string>
+    <string name="text_button_dialog_confirm_logout">Confirmar</string>
+    <string name="text_message_dialog_confirm_logout">Aperte em confirmar para sair da sua conta.</string>
+    <string name="text_message_recover_account_fragment">Um e-mail foi enviado para sua caixa de entrada com o link de recuperação de senha.</string>
+    <string name="text_save_success_form_task_fragment">Tarefa salva com sucesso!</string>
+    <string name="text_update_success_form_task_fragment">Tarefa atualizada com sucesso!</string>
+    <string name="text_list_task_empty">Nenhuma tarefa cadastrada.</string>
+    <string name="text_list_task_load">Carregando tarefas...</string>
+    <string name="text_delete_success_task">Tarefa excluída com sucesso!</string>
+    <string name="text_title_dialog_delete">Excluir tarefa</string>
+    <string name="text_message_dialog_delete">Deseja excluir a tarefa?</string>
+    <string name="text_button_dialog_confirm">Confirmar</string>
+    <string name="text_title_edit_task_form_task_fragment">Editando tarefas...</string>
+    <string name="account_not_registered_register_fragment">Conta não cadastrada.</string>
+    <string name="invalid_email_register_fragment">E-mail inválido.</string>
+    <string name="invalid_password_register_fragment">Senha inválida.</string>
+    <string name="email_in_user_register_fragment">Este e-mail já está sendo utilizado por outra conta.</string>
+    <string name="strong_password_register_fragment">A senha deve ter pelo menos 6 caracteres.</string>
+</resources>

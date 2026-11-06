@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418312759272",
+    "project_id": "taskapp-5be18",
+    "storage_bucket": "taskapp-5be18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418312759272:android:8a988f4ebe7da00565e65d",
+        "android_client_info": {
+          "package_name": "com.thiagosilva.navegabilidadeentreastelas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBsH_M4KjLw88sr-OBMRWYxDg2ce4Ampk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
